@@ -1,0 +1,80 @@
+.o {
+    background-color: rgb(57, 235, 205);
+    font-weight: bold;
+    margin: 0% auto;
+}
+
+.o blockquote {
+    text-align: center;
+    background-color: rgb(21, 247, 1);
+    width: fit-content;
+    font-weight: bold;
+    margin: auto;
+    color: rgb(0, 0, 0);
+}
+
+
+body {
+    background-color: rgb(245, 245, 233);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div {
+    text-align: center;
+}
+
+.isi {
+    text-align: justify;
+    width: fit-content;
+}
+
+h1 {
+    color:rgb(0, 0, 175) ;
+}
+
+.Bbesar {
+    font-size: 35px;
+    color: rgb(24, 11, 11);
+    display: inline;
+}
+
+.koleksi {
+    background-color: rgb(58, 20, 194);
+}
+
+#profil {
+    text-align: justify;
+}
+
+#beternak {
+    text-align: justify;
+}
+
+.images {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.promo {
+    width: 80%;
+    margin: auto;
+}
+
+.promo h5 {
+    background-color: aqua;
+    border: 5px solid rgb(41, 23, 206);
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    margin: 0% auto;
+}
+
+#peliharalah {
+    color: rgb(65, 190, 199);
+}
+
+
+
+
+
